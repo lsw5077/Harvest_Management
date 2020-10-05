@@ -1,4 +1,4 @@
-# A note on the code from Evolving Regulations for a Changing World
+# A note on the code from Managing Evolving Fisheries
 
 Dear Reader,
 
